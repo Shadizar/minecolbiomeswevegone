@@ -1,5 +1,5 @@
 {
-  "branch": "minecolonies:biomeswevegone",
+  "branch": "minecoloniesbiomeswevegone:biomeswevegone",
   "name": "BWG Stone Recipes",
   "researchLevel": 1,
   "subtitle": "Unlocks automatically-learned crafting recipes for misc. BWG stone items that are otherwise not doable by colonists.",
@@ -12,7 +12,7 @@
     {
 	  "items":{
           "item": "minecraft:stonecutter",
-          "quantity": 1
+          "count": 1
 	  }
     }
   ]
