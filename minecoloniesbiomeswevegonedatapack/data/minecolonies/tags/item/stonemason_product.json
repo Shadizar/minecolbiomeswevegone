@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:dacite_tile",
+	"biomeswevegone:dacite_pillar",
+	"biomeswevegone:dacite_bricks",
+	"biomeswevegone:red_rock_bricks",
+	"biomeswevegone:chiseled_red_rock_bricks"
+  ]
+}

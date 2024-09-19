@@ -1,0 +1,15 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "id" : "biomeswevegone:dacite_cobblestone",
+        "count": 1
+    }
+  ],
+  "result":  {
+	  "id": "biomeswevegone:dacite_cobblestone_slab",
+      "count": 2},
+  "research-id": "minecoloniesbiomeswevegone:biomeswevegone/bwgstonecutting",
+  "min-building-level": 2
+}

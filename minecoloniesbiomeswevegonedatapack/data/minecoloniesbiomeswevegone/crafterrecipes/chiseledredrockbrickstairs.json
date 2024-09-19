@@ -1,0 +1,15 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "id" : "biomeswevegone:chiseled_red_rock_bricks",
+        "count": 1
+    }
+  ],
+  "result":  {
+	  "id": "biomeswevegone:chiseled_red_rock_brick_stairs",
+      "count": 1},
+  "research-id": "minecoloniesbiomeswevegone:biomeswevegone/bwgstonecutting",
+  "min-building-level": 2
+}

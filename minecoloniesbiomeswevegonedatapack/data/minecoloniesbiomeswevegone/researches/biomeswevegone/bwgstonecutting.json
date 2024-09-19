@@ -1,0 +1,19 @@
+{
+  "branch": "minecolonies:biomeswevegone",
+  "name": "BWG Stone Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes for misc. BWG stone items that are otherwise not doable by colonists.",
+  "icon": "biomeswevegone:red_rock_bricks",
+  "requirements": [
+    {
+      "building": "stonemason",
+      "level": 2
+    },
+    {
+	  "items":{
+          "item": "minecraft:stonecutter",
+          "quantity": 1
+	  }
+    }
+  ]
+}
