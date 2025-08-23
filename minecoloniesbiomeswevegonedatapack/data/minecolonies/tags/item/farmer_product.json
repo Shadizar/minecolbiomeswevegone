@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:sandy_dirt",
+    "#biomeswevegone:glowcane_powder",
+	"biomeswevegone:pale_mud_bricks"
+  ]
+}

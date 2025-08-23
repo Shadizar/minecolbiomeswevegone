@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:red_rock_tiles",
+    "biomeswevegone:dacite_tiles",
+	"biomeswevegone:dacite_pillar",
+	"biomeswevegone:dacite_bricks",
+    "biomeswevegone:white_dacite_tiles",
+	"biomeswevegone:white_dacite_pillar",
+	"biomeswevegone:white_dacite_bricks",
+	"biomeswevegone:red_rock_bricks",
+	"biomeswevegone:mossy_red_rock_bricks",
+	"biomeswevegone:mossy_dacite_bricks",
+	"biomeswevegone:mossy_white_dacite_bricks"
+  ]
+}
